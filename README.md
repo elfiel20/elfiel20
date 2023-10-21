@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erica L. Field</h1>
+<h1 align="center">Hi 👋, I'm Erica (enmity)  L. Field</h1>
 <h3 align="center">I'm a computer scientist with a background in web programming and Java development.</h3>
 
 - I’m currently working on **a ToDo list Web Application.**
